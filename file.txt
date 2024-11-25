@@ -1,0 +1,3 @@
+Python is very Interesting
+It is Beginner friendly
+It simpler than any other Programming Language
